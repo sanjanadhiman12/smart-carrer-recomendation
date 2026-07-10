@@ -6,6 +6,8 @@ type. Built as a beginner-friendly final-year Computer Science project.
 
 **Tagline:** Discover Your Skills • Choose the Right Career • Build Your Future
 
+**Live Demo:** https://smart-carrer-recomendation.onrender.com
+
 <img width="1024" height="1536" alt="smart_career_recommendation_system" src="https://github.com/user-attachments/assets/22f19b32-3d2c-4117-8518-9a7340538bf0" />
 
 
