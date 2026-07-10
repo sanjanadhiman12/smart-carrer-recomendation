@@ -6,7 +6,7 @@ type. Built as a beginner-friendly final-year Computer Science project.
 
 **Tagline:** Discover Your Skills • Choose the Right Career • Build Your Future
 
-**Live Demo:** https://kushicarrer.pythonanywhere.com/
+**Live Demo:** kushicarrer.pythonanywhere.com
 
 
 
